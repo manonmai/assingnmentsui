@@ -1,0 +1,53 @@
+#siteWrapper{
+	width: 800px;
+	min-height: 600px;
+	border: 1px solid;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#headerWrapper{
+	height: 100px;
+	background-color: crimson;
+}
+#headerWrapper h1{
+	margin: 0px;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 40pt;
+	color: white;
+	font-family: candara;
+}
+#bodyWrapper{
+	min-height: 450px;
+}
+
+#leftContent{
+	width: 210px;
+	background-color: powderblue;
+	float: right;
+	margin: 10px;
+	padding: 10px;
+	
+}
+#rightContent{
+	width:510px;
+	background-color: lemonchiffon;
+	float:left;
+	margin: 10px;
+	padding: 10px;
+}
+
+#footerWrapper{
+	clear : both;
+	height: 50px;
+	background-color: crimson;
+}
+#footerWrapper h3{
+	margin: 0px;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 10pt;
+	color: white;
+	font-family: candara;
+}
